@@ -1,0 +1,25 @@
+{
+    "students": [
+        {
+            "id": 1,
+            "name": "Alice Johnson",
+            "age": 20,
+            "email": "WlB4w@example.com",
+            "image": "https://randomuser.me/api/portraits/women/1.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Bob Smith",
+            "age": 22,
+            "email": "GwN3o@example.com",
+            "image": "https://randomuser.me/api/portraits/men/2.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Catherine Lee",
+            "age": 19,
+            "email": "iN4dK@example.com",
+            "image": "https://randomuser.me/api/portraits/women/3.jpg"
+        }
+    ]
+}
